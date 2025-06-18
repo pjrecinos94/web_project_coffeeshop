@@ -8,4 +8,4 @@ Página web para una cafetería dentro de una biblioteca, realizada con HTML y C
 
 La estructura de la página podría mejorar, poniendo la sección de "Recetas" debajo de "Reservas," ya que eso ayudaría a elevar la venta de café en la cafeteria.
 
-
+https://pjrecinos94.github.io/web_project_coffeeshop/
